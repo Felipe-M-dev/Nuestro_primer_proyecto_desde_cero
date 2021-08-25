@@ -26,4 +26,8 @@
 - Crear un repositorio en GitHub. __(0.5 Puntos)__
 - Inicializar proyecto en Heroku y hacer push. __(1 Punto)__
 
+__Devido a que Heroku no soporta SQLite, se pasa a una BD Postgres__
+
+Para mayor información, visitar el siguiente enlace: https://devcenter.heroku.com/articles/sqlite3
+
 Link al proyecto: https://fmartinez-first-app.herokuapp.com/
